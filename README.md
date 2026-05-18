@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Nikhil Rejith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Nikhil Rejith 👋
 
-<!---
-ALXEN03/ALXEN03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA Student passionate about building practical software systems and web applications.
+
+💻 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- C++
+- Git & GitHub
+
+🚀 Featured Projects
+- Timetable Management System
+- RFID Attendance System
+
+✨ Interests
+- Web Development
+- UI/UX Design
+- Software Systems
+- Problem Solving
+
+📚 Currently Learning
+- React
+- Firebase
+- Modern Frontend Development
+
+📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/nikhilrejith
