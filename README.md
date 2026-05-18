@@ -1,28 +1,16 @@
 # Hi, I'm Nikhil Rejith 👋
 
-🎓 BCA Student passionate about building practical software systems and web applications.
+🎓 BCA Student passionate about web development and software systems.
 
-💻 Tech Stack
-- HTML
-- CSS
-- JavaScript
-- C++
-- Git & GitHub
+💻 Tech Stack  
+HTML • CSS • JavaScript • C++ • Git
 
-🚀 Featured Projects
-- Timetable Management System
+🚀 Featured Projects  
+- Timetable Management System  
 - RFID Attendance System
 
-✨ Interests
-- Web Development
-- UI/UX Design
-- Software Systems
-- Problem Solving
+📚 Currently Learning  
+React & Modern Frontend Development
 
-📚 Currently Learning
-- React
-- Firebase
-- Modern Frontend Development
-
-📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/nikhilrejith
+📫 LinkedIn  
+www.linkedin.com/in/nikhilrejith
