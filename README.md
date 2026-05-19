@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Rejith 👋
+# Hi, I'm Nikhil Rejith
 
 BCA Student passionate about Software Development, IoT Systems, and Modern Web Technologies.
 
@@ -53,15 +53,7 @@ RFID-based attendance and access control system using Arduino and MFRC522.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ALXEN03&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=ALXEN03&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXEN03&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
