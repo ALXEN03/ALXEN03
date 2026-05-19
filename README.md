@@ -54,13 +54,10 @@ https://wokwi.com/projects/464379162690625537
 
 ## 📈 GitHub Stats
 
-<div align="center">
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALXEN03\&show_icons=true\&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALXEN03&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALXEN03\&layout=compact\&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXEN03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
