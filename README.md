@@ -1,28 +1,16 @@
 # Hi, I'm Nikhil Rejith 👋
 
-🎓 BCA Student | Aspiring Software Developer | IoT & Web Development Enthusiast
+BCA Student passionate about Software Development, IoT Systems, and Modern Web Technologies.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;IoT+%26+Embedded+Systems+Enthusiast;Frontend+Development+Learner;Building+Creative+and+Practical+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;IoT+%26+Embedded+Systems+Enthusiast;Frontend+Development+Learner;Building+Creative+Projects" />
 </p>
-
----
-
-## 🚀 About Me
-
-Passionate BCA student focused on building practical software and IoT-based solutions.  
-Interested in modern web technologies, embedded systems, and creating user-friendly applications that solve real-world problems.
-
-- 🌱 Currently learning **JavaScript, Frontend Development, and UI/UX**
-- 🔧 Building projects involving **RFID systems, automation, and web apps**
-- 💡 Interested in **Software Development, IoT, and Creative Tech**
-- 📈 Continuously improving problem-solving and development skills
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -30,58 +18,30 @@ Interested in modern web technologies, embedded systems, and creating user-frien
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📅 Timetable Management System
+### 📅 Timetable Management System
 
-A smart timetable generation system designed to automate academic scheduling with:
-
-- Teacher conflict prevention
-- Section and subject management
-- Student timetable viewing
-- Organized scheduling workflow
+Smart timetable generation system with teacher conflict prevention, section management, and student timetable viewing.
 
 🔗 Repository  
-[Timetable Generator](https://github.com/ALXEN03/Timetable-Generator)
+https://github.com/ALXEN03/Timetable-Generator
 
 ---
 
-## 📡 RFID Attendance & Access Control System
+### 📡 RFID Attendance & Access Control System
 
-An IoT-based attendance and access verification system developed using Arduino and RFID technology.
-
-### Features
-- RFID card authentication
-- Attendance logging
-- LCD status display
-- Buzzer feedback system
-- Access verification workflow
-
-### Technologies Used
-- Arduino UNO
-- MFRC522 RFID Module
-- LCD Display
-- Wokwi Simulator
+RFID-based attendance and access verification system using Arduino UNO, MFRC522 RFID module, LCD display, and buzzer feedback.
 
 🔗 Repository  
-[RFID Attendance System](https://github.com/ALXEN03/RFID-Attendance-System)
+https://github.com/ALXEN03/RFID-Attendance-System
 
 🔗 Wokwi Simulation  
-[Open Simulation](https://wokwi.com/projects/464379162690625537)
-
----
-
-## 📚 Currently Learning
-
-- JavaScript
-- Modern Frontend Development
-- Git & GitHub
-- UI/UX Fundamentals
+https://wokwi.com/projects/464379162690625537
 
 ---
 
@@ -95,25 +55,11 @@ An IoT-based attendance and access verification system developed using Arduino a
   <img src="https://github-readme-stats.vercel.app/api?username=ALXEN03&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXEN03&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🛠️ Tools & Technologies
-
-- Arduino UNO
-- MFRC522 RFID Module
-- Wokwi Simulator
-- VS Code
-- Git & GitHub
-
 ---
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/nikhilrejith/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -126,9 +72,5 @@ An IoT-based attendance and access verification system developed using Arduino a
 ---
 
 <p align="center">
-  <i>"Always learning, building, and improving."</i>
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/ALXEN03">ALXEN03</a>
+  ⭐ Always learning and building new projects.
 </p>
