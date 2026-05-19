@@ -80,8 +80,4 @@ https://github.com/ALXEN03
 
 ---
 
-<div align="center">
-
 ☄️ Always learning and building new projects.
-
-</div>
