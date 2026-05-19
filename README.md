@@ -65,5 +65,5 @@ RFID-based attendance and access control system using Arduino and MFRC522.
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=☄️+Building+ideas+into+reality.;💻+Learning+something+new+every+day.;🚀+Passionate+about+software+and+IoT." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=15&pause=1200&color=A9B1C6&center=true&vCenter=true&width=500&lines=☄️+Building+ideas+into+reality.;💻+Learning+something+new+every+day.;🚀+Passionate+about+software+and+IoT." />
 </p>
