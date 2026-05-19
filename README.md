@@ -33,8 +33,8 @@ RFID-based attendance and access control system using Arduino and MFRC522.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALXEN03&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=ALXEN03&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALXEN03&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=ALXEN03&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔗 Connect
@@ -46,6 +46,14 @@ RFID-based attendance and access control system using Arduino and MFRC522.
 
   <a href="https://github.com/ALXEN03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/nikhil.rejith" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:nikhilrejith7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
