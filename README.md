@@ -33,21 +33,10 @@ RFID-based attendance and access control system using Arduino and MFRC522.
 ## 🔗 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nikhilrejith/" style="text-decoration:none;" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/ALXEN03" style="text-decoration:none;" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/YOUR_USERNAME" style="text-decoration:none;" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/nikhilrejith/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ALXEN03" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## 📊 GitHub Stats
