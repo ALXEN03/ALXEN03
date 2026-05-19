@@ -38,9 +38,9 @@ https://wokwi.com/projects/464379162690625537
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALXEN03\&show_icons=true\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ALXEN03\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALXEN03\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALXEN03\&layout=compact\&theme=tokyonight)
 
 ---
 
