@@ -37,37 +37,23 @@ RFID-based attendance and access control system using Arduino and MFRC522.
   <img height="165" src="https://streak-stats.demolab.com?user=ALXEN03&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXEN03&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ALXEN03&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ## 🔗 Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nikhilrejith/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-
-  &nbsp;
 
   <a href="https://github.com/ALXEN03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-
-  &nbsp;
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 
-  &nbsp;
-
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
