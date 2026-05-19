@@ -6,7 +6,7 @@ BCA Student passionate about Software Development, IoT Systems, and Modern Web T
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00C2FF&width=500&lines=Aspiring+Software+Developer;IoT+%26+Embedded+Systems+Enthusiast;Building+Creative+Projects" />
 </p>
 
-<hr style="border: 0.5px solid #2f3136;">
+<br>
 
 ## 💻 Tech Stack
 
@@ -20,16 +20,16 @@ BCA Student passionate about Software Development, IoT Systems, and Modern Web T
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-<hr style="border: 0.5px solid #2f3136;">
+<br>
 
 ## 🚀 Featured Projects
 
-<table style="border-spacing: 20px; border-collapse: separate;">
+<table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-<div>
+<div align="left">
 
 ### 📅 Timetable Management System
 
@@ -45,9 +45,11 @@ Smart timetable generation system with teacher conflict prevention and section m
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
 
-<div>
+<td width="48%" valign="top">
+
+<div align="left">
 
 ### 📡 RFID Attendance System
 
@@ -66,7 +68,7 @@ RFID-based attendance and access control system using Arduino and MFRC522.
 </tr>
 </table>
 
-<hr style="border: 0.5px solid #2f3136;">
+<br>
 
 ## 🔗 Connect
 
@@ -88,7 +90,7 @@ RFID-based attendance and access control system using Arduino and MFRC522.
   </a>
 </p>
 
-<hr style="border: 0.5px solid #2f3136;">
+<br>
 
 ## 📊 GitHub Stats
 
@@ -96,7 +98,7 @@ RFID-based attendance and access control system using Arduino and MFRC522.
   <img height="180" src="https://streak-stats.demolab.com?user=ALXEN03&theme=tokyonight&hide_border=true"/>
 </p>
 
-<hr style="border: 0.5px solid #2f3136;">
+<br>
 
 <p align="center">
   ☄️ Always learning and building.
