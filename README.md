@@ -20,13 +20,11 @@ BCA Student passionate about Software Development, IoT Systems, and Modern Web T
 
 ## 🚀 Featured Projects
 
-### 📅 [Timetable Management System](https://github.com/ALXEN03/Timetable-Generator) 🔗
+### 📅 [Timetable Management System 🔗](https://github.com/ALXEN03/Timetable-Generator) 
 
 Smart timetable generation system with teacher conflict prevention and section management.
-
 <br>
-
-### 📡 [RFID Attendance System](https://github.com/ALXEN03/RFID-Attendance-System) 🔗
+### 📡 [RFID Attendance System 🔗](https://github.com/ALXEN03/RFID-Attendance-System) 
 
 RFID-based attendance and access control system using Arduino and MFRC522.
 
